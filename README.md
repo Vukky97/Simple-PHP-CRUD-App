@@ -7,7 +7,7 @@ Simple PHP C.R.U.D. Application with MySQL database.
 
 ## Run
 * `Run simpleDb.sql on your localhost/phpmyadmin sql qyuery.`
-* `Copy the app.js, process.php, projects.php files udner your WAMP host library (C:\wamp64\www) in windows for default.
+* `Copy the app.js, process.php, projects.php files udner your WAMP host library (C:\wamp64\www) in windows for default.`
 
 
 
